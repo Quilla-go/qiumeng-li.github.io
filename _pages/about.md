@@ -1,4 +1,4 @@
-![image](https://github.com/Quilla-go/qiumeng-li.github.io/assets/73524740/571b0a26-5925-45b5-89a0-10d84d144939)![image](https://github.com/Quilla-go/qiumeng-li.github.io/assets/73524740/bb9d503d-c2fb-46a0-9735-25cd6d904670)---
+---
 permalink: /
 title: "Research Interest"
 author_profile: true
